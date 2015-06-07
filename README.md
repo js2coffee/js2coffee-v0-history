@@ -1,4 +1,4 @@
-# js2coffee
+# js2coffee 0.3.5
 
 <!-- BADGES/ -->
 
@@ -12,6 +12,8 @@
 
 A JavaScript to [CoffeeScript](http://coffeescript.org/) compiler
 
+# THIS REPO IS OUTDATED
+This repository is not maintained anymore, please visit the [new version of js2coffee](https://github.com/js2coffee/js2coffee)
 
 <!-- INSTALL/ -->
 
